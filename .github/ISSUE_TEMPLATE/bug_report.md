@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-
+I added blooketcoins yesterday, 500, and it worked but today i tried and its not working!!!
 A clear and concise description of what the bug is.
 
 **To Reproduce**
